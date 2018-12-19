@@ -35,8 +35,8 @@ for i,j,k in zip(ys_cut, ls_cut, zw_cut):
 ###开始绘制
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-mpl.rcParams['font.sans-serif'] = ['SimHei']
-mpl.rcParams['font.family']='sans-serif'
+#mpl.rcParams['font.sans-serif'] = ['SimHei']
+#mpl.rcParams['font.family']='sans-serif'
 mpl.rcParams['font.size'] = 10
 
 from wordcloud import WordCloud,STOPWORDS
