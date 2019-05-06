@@ -10,7 +10,7 @@
 [1.4 文件读取](https://nbviewer.jupyter.org/github/cacolola/python-LEC/blob/master/4-input_file.ipynb)    
 [1.5 函数](https://nbviewer.jupyter.org/github/cacolola/python-LEC/blob/master/5-function_para.ipynb)    
 [1.6 类](https://nbviewer.jupyter.org/github/cacolola/python-LEC/blob/master/6-class.ipynb)   
-[小结]（https://nbviewer.jupyter.org/github/cacolola/python-LEC/blob/master/7-review.ipynb）
+[小结](https://nbviewer.jupyter.org/github/cacolola/python-LEC/blob/master/7-review.ipynb)
 
 
 ### 练习
